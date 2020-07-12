@@ -1,0 +1,14 @@
+__pycache__/
+
+env/
+build/
+dist/
+lib/
+lib64/
+sdist/
+var/
+
+idea/*
+.idea/
+
+db.sqlite3
